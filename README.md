@@ -18,7 +18,8 @@
 
 QuantumLeap GPT is a cutting-edge chatbot application that combines the power of multiple LLM models with persistent conversation memory. Built with Streamlit and LangChain, it offers a sleek, dark-themed interface with advanced chat capabilities.
 
-![Demo](https://via.placeholder.com/800x400/0e1117/8A2BE2?text=QuantumLeap+GPT+Demo)
+## 📸 Screenshots
+![image description](assets/pic01.png)
 
 ## ✨ Features
 
