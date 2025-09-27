@@ -232,7 +232,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by the QuantumLeap Team**
+**Made with ❤️**
 
 [![Star](https://img.shields.io/github/stars/Amir-Hossein-shamsi/quantumleap-gpt?style=social)](https://github.com/Amir-Hossein-shamsi/quantumleap-gpt)
 [![Fork](https://img.shields.io/github/forks/Amir-Hossein-shamsi/quantumleap-gpt?style=social)](https://github.com/Amir-Hossein-shamsi/quantumleap-gpt/fork)
